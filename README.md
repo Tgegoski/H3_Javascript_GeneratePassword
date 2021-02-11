@@ -1,5 +1,7 @@
 # H3_Java_GeneratePassword
+https://tgegoski.github.io/H3_Javascript_GeneratePassword/
 
+https://github.com/Tgegoski/H3_Javascript_GeneratePassword.git
 
 Description - 
 This project is to create a password generator that will randomly create passwords based on the users choices.  Lots of employers need to have the capbility for their employees to have passwords that are very secure using multiple types of characters.  This password generator allows users to choose the length of their password and then choose whether they would like to use uppercase, lowercase, numbers or special characters.  Once theese options are selected it will generate a random password based on their selections and show it in the text box. They can then copy and paste it to be used whereever they need.  
