@@ -1,4 +1,4 @@
-# H3_Java_GeneratePassword
+# H3_Javascript_GeneratePassword
 https://tgegoski.github.io/H3_Javascript_GeneratePassword/
 
 https://github.com/Tgegoski/H3_Javascript_GeneratePassword.git
