@@ -6,6 +6,12 @@ This project is to create a password generator that will randomly create passwor
 
 Below are examples of the before and after screenshots:
 
+
+![2021-07-29_21-38-36](https://user-images.githubusercontent.com/76576148/127592507-d9cb202e-f5a8-4442-afed-cf73927a9e43.png)
+
+
+![2021-07-29_21-33-01](https://user-images.githubusercontent.com/76576148/127592244-75562568-e387-48bd-a72c-5c17bcf5bdbe.png)
+
 # Instructions for Use:
 
 1. Click on the Generate Password button to initiate.
