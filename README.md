@@ -1,14 +1,16 @@
-# H3_Java_GeneratePassword
+# H3_Javascript_GeneratePassword
 
+# Description
 
-Description - 
-This project is to create a password generator that will randomly create passwords based on the users choices.  Lots of employers need to have the capbility for their employees to have passwords that are very secure using multiple types of characters.  This password generator allows users to choose the length of their password and then choose whether they would like to use uppercase, lowercase, numbers or special characters.  Once theese options are selected it will generate a random password based on their selections and show it in the text box. They can then copy and paste it to be used whereever they need.  
+This project is to create a password generator that will randomly create passwords based on the users choices.  Lots of employers need to have the capability for their employees to have passwords that are very secure using multiple types of characters.  This password generator allows users to choose the length of their password and then choose whether they would like to use uppercase, lowercase, numbers or special characters.  Once these options are selected it will generate a random password based on their selections and show it in the text box. They can then copy and paste it to be used whenever they need.  
 
-Instructions for Use:
+Below are examples of the before and after screenshots:
 
-1. Click on the Generate Password button to inititate.
+# Instructions for Use:
 
-2. When prompted with the question "How many characters would you like your password to be?"; enter a number between 8-128 in the text box.  A mimimum of 8 characters is required.
+1. Click on the Generate Password button to initiate.
+
+2. When prompted with the question "How many characters would you like your password to be?"; enter a number between 8-128 in the text box.  A minimum of 8 characters is required.
 
 3. When prompted with the question "Would you like to use uppercase letters?" choose ok or cancel.
 
@@ -22,3 +24,10 @@ Instructions for Use:
 
 See the links at the top of the page to visit the URL and my Git Hub pages for this project.
 
+# Link to Deployed Application:
+
+https://tgegoski.github.io/H3_Javascript_GeneratePassword/
+
+# Link to GitHub Repository:
+
+https://github.com/Tgegoski/H3_Javascript_GeneratePassword.git
